@@ -1,6 +1,6 @@
 🤖 Embedded Intent Classifier
 
-A production-grade FastAPI application that uses **sentence embeddings** to classify user prompts into 4 categories:
+A FastAPI application that uses **sentence embeddings** to classify user prompts into 4 categories:
 
 1. Search-based (e.g. weather, time, news)
 2. Math-based queries
